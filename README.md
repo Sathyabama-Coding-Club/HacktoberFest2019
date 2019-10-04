@@ -9,8 +9,12 @@ This is a beginner friendly repository made specifically for Hacktoberfest that 
 ### 1. Register yourself for Hacktoberfest 2019
 ###### Link to register: https://hacktoberfest.digitalocean.com/
 
+![register](Assets/Images/register.png)
+
 ### 2. Star and Fork this Repository
 ###### You can star ⭐ and fork 🍽️ this repository on GitHub by navigating at the top of this repository.
+
+![register](Assets/Images/fork.png)
 
 ### 3. Clone the Repository
 
@@ -19,10 +23,15 @@ This is a beginner friendly repository made specifically for Hacktoberfest that 
 ###### We’ll use the `git clone`  command along with the URL that points to your fork of the repository.
 
 ###### This URL will be similar to the URL above, except now it will end with `.git.` In the example above, the URL will look like this:
+https://github.com/Sathyabama-Coding-Club/HacktoberFest2019.git
 
 ###### You can alternatively copy the URL by using the green “Clone or download” button from your repository page that you just forked from the original repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL:
 
+![register](Assets/Images/link.png)
+![register](Assets/Images/download.png)
+
 ###### Once we have the URL, we’re ready to clone the repository. To do this, we’ll combine the git clone command with the repository URL from the command line in a terminal window:
+git clone https://github.com/Sathyabama-Coding-Club/HacktoberFest2019.git
 
 ### 4. Create a New Branch
 
