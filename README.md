@@ -128,3 +128,9 @@ git clone https://github.com/Sathyabama-Coding-Club/HacktoberFest2019.git
 
 ## Check your Hacktoberfest Contribution status at:
 <a href="https://hacktoberfest.digitalocean.com/profile" target="blank">https://hacktoberfest.digitalocean.com/profile</a>
+
+## For Support:
+
+### Reach us:
+#### Instagram - @dsc_sist
+#### Email - dsc.sathyabama@gmail.com
