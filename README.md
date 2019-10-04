@@ -9,7 +9,14 @@ This is a beginner friendly repository made specifically for Hacktoberfest that 
 #### Beginner to git?
 ##### Refer to <a href="https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide" target="blank">  https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide </a>.
 
+
+
 # Instructions :
+
+```diff
+- Contribute only to Data Structure+Algorithm Directory
+```
+
 ### 1. Register yourself for Hacktoberfest 2019
 ###### Link to register: https://hacktoberfest.digitalocean.com/
 
@@ -121,11 +128,3 @@ git clone https://github.com/Sathyabama-Coding-Club/HacktoberFest2019.git
 
 ## Check your Hacktoberfest Contribution status at:
 <a href="https://hacktoberfest.digitalocean.com/profile" target="blank">https://hacktoberfest.digitalocean.com/profile</a>
-
-
-
-
-
-
-
-
