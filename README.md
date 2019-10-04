@@ -1,6 +1,10 @@
-# DSC-SIST Hacktoberfest2019
+# DSC-SIST Hacktoberfest 2019
 
 This is a beginner friendly repository made specifically for Hacktoberfest that helps you get into OpenSource and takes you a step closer to earning your Hacktoberfest T-shirt 👕
+
+<p align="center">
+<img src="./Assets/Images/hacktoberfest.jpg" width="40%" >
+</p>
 
 #### Beginner to git?
 ##### Refer to <a href="https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide" target="blank">  https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide </a>.
