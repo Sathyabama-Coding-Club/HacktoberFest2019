@@ -66,7 +66,7 @@ git clone https://github.com/Sathyabama-Coding-Club/HacktoberFest2019.git
  
 ###### At this point, you can now modify existing files or add new files to the project on your own branch.
 
-###### Make sure you have read the contributing.md before you start contributing such that you make remarkable and easily acceptable PRs.
+###### Make sure you have read the [contributing.md](https://github.com/Sathyabama-Coding-Club/HacktoberFest2019/blob/master/Assets/README/CONTRIBUTING.md) before you start contributing such that you make remarkable and easily acceptable PRs.
 
 #### Now Make Changes Locally.
 
@@ -76,7 +76,7 @@ git clone https://github.com/Sathyabama-Coding-Club/HacktoberFest2019.git
 
 ###### Next, we’ll want to record the changes that we made to the repository with the git commit command.
 
-###### The commit message is an important aspect of your code contribution; it helps the other contributors fully understand the change you have made, why you made it, and how significant it is. Additionally, commit messages provide a historical record of the changes for the project at large, helping future contributors along the way.Thus, you must ensure that you write a meaningful commit message. If in a confusion, refer to the good contribution guidelines included in the ##### ` contributing.md `
+###### The commit message is an important aspect of your code contribution; it helps the other contributors fully understand the change you have made, why you made it, and how significant it is. Additionally, commit messages provide a historical record of the changes for the project at large, helping future contributors along the way.Thus, you must ensure that you write a meaningful commit message. If in a confusion, refer to the good contribution guidelines included in the [contributing.md](https://github.com/Sathyabama-Coding-Club/HacktoberFest2019/blob/master/Assets/README/CONTRIBUTING.md)
 
 ###### If you have a very short message, you can record that with the -m flag and the message in quotes:
 
