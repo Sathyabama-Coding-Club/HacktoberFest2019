@@ -2,6 +2,8 @@
 
 This is a beginner friendly repository made specifically for Hacktoberfest that helps you get into OpenSource and takes you a step closer to earning your Hacktoberfest T-shirt 👕
 
+#### Make sure you read [CONTRIBUTING.md](CONTRIBUTING.md) before getting started.
+
 <p align="center">
 <img src="./Assets/Images/hacktoberfest.jpg" width="40%" >
 </p>
@@ -28,6 +30,7 @@ This is a beginner friendly repository made specifically for Hacktoberfest that 
 ```diff
 - Contribute only to Data Structure+Algorithm Directory
 ```
+
 
 ### 1. Register yourself for Hacktoberfest 2019
 ###### Link to register: https://hacktoberfest.digitalocean.com/
