@@ -9,6 +9,18 @@ This is a beginner friendly repository made specifically for Hacktoberfest that 
 #### Beginner to git?
 ##### Refer to <a href="https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide" target="blank">  https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide </a>.
 
+- [Installing Git](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git#check-if-git-is-installed)
+
+- [How to setup Git in your Machine?](https://www.youtube.com/watch?v=J_Clau1bYco)
+
+- [Git Basics](https://www.youtube.com/watch?v=eL_0Ok_Gkas)
+
+- [How to create a branch?](https://www.youtube.com/watch?v=pDmYNK68IEc)
+
+- [How to create a Pull Request?](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+
+- [Git Issues](https://www.youtube.com/watch?v=WMykv2ZMyEQ)
+
 
 
 # Instructions :
