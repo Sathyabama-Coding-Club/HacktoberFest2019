@@ -132,5 +132,5 @@ git clone https://github.com/Sathyabama-Coding-Club/HacktoberFest2019.git
 ## For Support:
 
 ### Reach us:
-#### Instagram - @dsc_sist
+#### Instagram - [@dsc_sist](https://instagram.com/dsc_sist)
 #### Email - dsc.sathyabama@gmail.com
