@@ -10,7 +10,11 @@ This is a beginner friendly repository made specifically for Hacktoberfest that 
 
 #### Beginner to git?
 ##### Refer to <a href="https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide" target="blank">  https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide </a>.
+##### Refer to this curated resource created by [Fnplus](https://github.com/fnplus) Community 
+##### [how-to-contribute-to-open-source](https://github.com/fnplus/how-to-contribute-to-open-source)
 
+
+#### Git Basics
 - [Installing Git](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git#check-if-git-is-installed)
 
 - [How to setup Git in your Machine?](https://www.youtube.com/watch?v=J_Clau1bYco)
